@@ -13,3 +13,7 @@ OpenMMでMD計算（Colaboratoryで作成）
 
 ## rnaseq.command
 RNA-seq解析用のmac/linuxコマンド(ballgown以前)
+
+## RF2NA.command
+https://github.com/uw-ipd/RoseTTAFold2NA
+日本語のコメントとうまく行かなかった箇所の追加
