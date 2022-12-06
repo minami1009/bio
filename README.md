@@ -8,29 +8,14 @@ Bioinformatics programs used in my research.
 
 
 ## openmm.ipynb
-OpenMM（分子動力学計算プログラム）の実行（Colaboratoryで書いているが、当然ローカル環境で実行したほうが早い）
+OpenMM（分子動力学計算プログラム）の実行
 
-また、OpenMM-setupはローカルで行う必要がある（ラボLinuxマシンで実行）
-
-OpenMMをconda-forgeチャンネルからインストール
-
-$ cd OpenMM
-
-$ conda activate openmm
-
-$ conda install -c conda-forge openmm=7.6 python=3.7 -y
-
-$ openmm-setup
-
-ここからOpenMM-setupをGUIで操作する（以下Webサイト参照）
-
-主に参考にしたWebサイト：
-https://hira-labo.com/archives/1544
-https://magattaca.hatenablog.com/entry/2022/02/12/201641
-
+https://github.com/minami1009/bio/wiki/OpenMM%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%88%86%E5%AD%90%E5%8B%95%E5%8A%9B%E5%AD%A6%E8%A8%88%E7%AE%97
 
 ## rnaseq.command
 RNA-seq解析用のmac/linuxコマンド(ballgown以前)
+
+https://github.com/minami1009/bio/wiki/RNAseq%E8%A7%A3%E6%9E%90
 
 
 ## RF2NA.command
