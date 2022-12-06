@@ -8,16 +8,20 @@ Bioinformatics programs used in my research.
 
 
 ## openmm.ipynb
-OpenMM（分子動力学計算プログラム）の実行
-（Colaboratoryで書いているが、当然ローカル環境で実行したほうが早い）
-（初期構造しだいではColabで動かないかも）
+OpenMM（分子動力学計算プログラム）の実行（Colaboratoryで書いているが、当然ローカル環境で実行したほうが早い）
+
 また、OpenMM-setupはローカルで行う必要がある（ラボLinuxマシンで実行）
 
 OpenMMをconda-forgeチャンネルからインストール
+
 $ cd OpenMM
+
 $ conda activate openmm
+
 $ conda install -c conda-forge openmm=7.6 python=3.7 -y
+
 $ openmm-setup
+
 ここからOpenMM-setupをGUIで操作する（以下Webサイト参照）
 
 主に参考にしたWebサイト：
