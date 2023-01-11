@@ -1,5 +1,2 @@
-1. 相同塩基・タンパク質配列の取得（BLAST）：percent identityが30〜90％を取得している
-2. cd-hitで相同性の高い配列を削除（90％以上は削除している）
-3. MAFFT（https://mafft.cbrc.jp/alignment/server/ ）でmultiple sequence alignment
-4. TrimAlでトリミング（した後に目視で確認する）
-5. IQ-treeまたはRAxMLで系統樹推定
+wikiの解説を参照
+https://github.com/minami1009/bio/wiki/%E5%88%86%E5%AD%90%E7%B3%BB%E7%B5%B1%E8%A7%A3%E6%9E%90
